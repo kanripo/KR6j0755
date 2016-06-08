@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:00.850127
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:53
 #+TITLE: 於密滲施食旨槩
 #+PROPERTY: CBETA_ID X59n1082
 #+PROPERTY: ID KR6j0755
